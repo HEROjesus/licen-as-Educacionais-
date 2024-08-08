@@ -1,5 +1,3 @@
-# licenças-Educacionais
-
 # Licenças Educacionais para Estudantes de Engenharia de Software
 
 ## 1. GitHub Student Developer Pack
