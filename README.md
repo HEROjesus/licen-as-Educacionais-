@@ -1,5 +1,6 @@
 # Licenças Educacionais para Estudantes de Engenharia de Software
 
+
 ## 1. GitHub Student Developer Pack
 - **O que oferece:** Acesso gratuito a ferramentas de desenvolvimento como GitHub Pro, CI/CD, bancos de dados e serviços em nuvem.
 - **Por que é útil:** Colaboração em projetos, gerenciamento de código-fonte e aprendizado de tecnologias modernas.
